@@ -4,12 +4,23 @@
 
 A modern Snake game built with HTML5 Canvas and JavaScript.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/game-start.png" alt="Game Start Screen" width="400"/>
+  <img src="screenshots/game-playing.png" alt="Game Playing" width="400"/>
+</div>
+
+<div align="center">
+  <em>Left: Game Start Screen | Right: Game Playing</em>
+</div>
+
 ## 🎮 Game Features
 
 - **Classic Gameplay**: Control the snake to eat food while avoiding walls and self-collision
 - **Modern Interface**: Beautiful gradient backgrounds and rounded corner design
 - **Responsive Design**: Supports both desktop and mobile devices
-- **Multiple Control Methods**: 
+- **Multiple Control Methods**:
   - Keyboard controls: WASD or Arrow keys
   - Mobile touch buttons
 - **Game Features**:

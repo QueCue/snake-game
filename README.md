@@ -4,6 +4,17 @@
 
 一个现代化的贪吃蛇游戏，使用HTML5 Canvas和JavaScript开发。
 
+## 📸 游戏截图
+
+<div align="center">
+  <img src="screenshots/game-start.png" alt="游戏开始界面" width="400"/>
+  <img src="screenshots/game-playing.png" alt="游戏进行中" width="400"/>
+</div>
+
+<div align="center">
+  <em>左：游戏开始界面 | 右：游戏进行中</em>
+</div>
+
 ## 🎮 游戏特性
 
 - **经典玩法**: 控制蛇吃食物，避免撞墙和撞到自己
