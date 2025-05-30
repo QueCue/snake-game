@@ -4,6 +4,9 @@
 
 一个现代化的贪吃蛇游戏，使用HTML5 Canvas和JavaScript开发。
 
+## 🔗 在线试玩
+[点击立即试玩](https://quecue.github.io/snake-game)
+
 ## 📸 游戏截图
 
 <div align="center">
