@@ -4,6 +4,9 @@
 
 A modern Snake game built with HTML5 Canvas and JavaScript.
 
+## 🔗 Online Trial Play
+[Click to Play Now](https://quecue.github.io/snake-game)
+
 ## 📸 Screenshots
 
 <div align="center">
